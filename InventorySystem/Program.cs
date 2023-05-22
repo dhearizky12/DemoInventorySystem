@@ -1,7 +1,7 @@
 using InventorySystem.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
-using InventorySystem.Models;
+using InventorySystem.Models; //nambah
 
 var builder = WebApplication.CreateBuilder(args);
 
